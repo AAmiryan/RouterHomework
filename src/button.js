@@ -1,6 +1,5 @@
 
 import React from 'react';
-import alertInput from './alertInput';
 // import Button from '@material-ui/core/Button';
 const LoginButton = (props) => {
 
